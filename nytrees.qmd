@@ -1,5 +1,5 @@
 ---
-title: "Mini-Project 03 - Visualizing and Maintaining the Green Canopy of NYC"
+title: "Visualizing and Maintaining the Green Canopy of NYC"
 editor:
     mode: source
 format:
@@ -32,6 +32,7 @@ As usual, multiple packages will be used for this project. A few extra packages 
 
 ```{r setup}
 #| echo: true
+#| warning: false
 
 ensure_package <- function(pkg) {
   pkg <- as.character(substitute(pkg))          
