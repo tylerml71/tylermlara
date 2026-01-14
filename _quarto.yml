@@ -27,6 +27,3 @@ format:
 editor:
   mode: source
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
