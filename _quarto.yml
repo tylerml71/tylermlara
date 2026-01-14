@@ -5,7 +5,7 @@ project:
 website:
   title: "STA 9750 Submission Material"
   description: "Course Projects for STA 9750 at Baruch College"
-  site-url: "https://tylerml71.com"
+  site-url: "https://tylerlara.com"
   navbar:
     left:
       - text: "Mini-Project #01"
