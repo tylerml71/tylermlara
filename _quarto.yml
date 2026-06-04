@@ -18,6 +18,8 @@ website:
         href: facts.qmd
       - text: "Individual Report for Group Project"
         href: individual-report.qmd
+      - text: "RAM Shortage"
+        href: RAM_Proj.ipynb
     background: primary
     search: false
 format:
